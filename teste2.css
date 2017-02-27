@@ -1,0 +1,44 @@
+body {
+ background: #A30066;
+}
+h1 {
+ color: #fa8f1c;
+}
+.user-menu header h1 {
+ color: #fa8f1c;
+}
+h2 {
+ color: #fa8f1c;
+ background-color: #A30066;
+}
+.header-main {
+ color: #fa8f1c;
+ background: #A30066;
+}
+#page-title {
+ text-shadow: none;
+}
+.user-menu {
+ background: #A30066;
+}
+.user-menu h2 {
+ color: #4b565d;
+ background: #A30066;
+ box-shadow: none;
+}
+.user-menu .nav-item > a {
+ color: #fa8f1c;
+}
+.user-menu .nav-item .plugin-ico,
+.user-menu .nav-item .course-ico {
+ background-color: #A30066;
+}
+.grades .section-name {
+ color: #ffffff;
+ background-color: #A30066;
+}
+
+.user-menu header {
+ color: #fa8f1c;
+ background: #A30066 ;
+}
